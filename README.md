@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @volubepossum beter known as Roland 
-- 👀 I’m interested in money
-- 🌱 I’m currently learning at [AAU](https://aau.dk)
+- 👋 Hi, I’m @volubepossum better known as Roland 
+- 👀 I’m interested in all kinds of development, not only in the fields of IT but also 
+- 🌱 I’m currently learning at [AAU](https://www.en.aau.dk/education/bachelor/applied-industrial-electronics)
 - 📫 How to reach me: send an e-mail to domj.roli@gmail.com
 
 <!---
