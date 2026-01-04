@@ -1,5 +1,5 @@
 - volubeposum
-- learning at [DTU] (https://www.dtu.dk/english/education/graduate/msc-programmes/electrical-engineering/specialization/electronics)
+- learning at [DTU](https://www.dtu.dk/english/education/graduate/msc-programmes/electrical-engineering/specialization/electronics)
 - domj.roli@gmail.com
 
 <!---
